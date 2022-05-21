@@ -1,0 +1,2 @@
+- s-talk implemented successfully
+- typing ! on either console terminates the session on BOTH ends (this was the query we had, if it should terminate on either end or only local)
